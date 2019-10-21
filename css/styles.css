@@ -1,14 +1,16 @@
 img{
   float: right;
-  
-
 }
+
 h3{
     color: green;
+    font-size: 40px;
 }
+
 body{
-    background-color: grey;
+    background-color: peru;
 }
+
 .size{
     font-size: 30px;
 }
